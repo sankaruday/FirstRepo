@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Perumal/Desktop/New folder (2)/selenium/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Perumal/Desktop/New folder (2)/selenium/selenium-server-4.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
